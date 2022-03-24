@@ -2,7 +2,7 @@
 
 ## Pedro Martín Valera
 
-Software engineer at [Red Badger](https://red-badger.com/) & Distinguished Faculty Member at [General Assembly](https://generalassemb.ly)
+Senior Software Engineer Consultant (fancy name for a Web Developer) at [Red Badger](https://red-badger.com/) & Distinguished Faculty Member (fancy name for a tech teacher) at [General Assembly](https://generalassemb.ly)
 
 ### About me
 
