@@ -6,8 +6,9 @@
 - ~~Junior Web Developer at [33](https://www.thirtythr.ee/uk)~~
 - ~~Senior Software Engineer Consultant at [Red Badger](https://red-badger.com/)~~
 - ~~Teacher assistant at [General Assembly][ga]~~
-- Tech lead consultant at [101 Ways](https://www.101ways.com/)
+- ~~Tech lead consultant at [101 Ways](https://www.101ways.com/)~~
 - Distinguished Faculty Member (fancy name for a tech teacher) at [General Assembly](https://generalassemb.ly)
+- Senior Software Engineer Consultant at [Red Badger](https://red-badger.com/)
 
 ### About me
 
